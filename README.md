@@ -14,6 +14,7 @@ The following image depicts a union find addressing dynamic connectivity: <br />
 ![alt text](https://github.com/kshitijzutshi/Algorithms/blob/master/Unionfind.png)
 
 ### Quick find
+The First implementation of an algorithm for solving the dynamic connectivity problem, called Quick-find. This is a so called eager algorithm, for solving connectivity problem.
 
 # License
 
