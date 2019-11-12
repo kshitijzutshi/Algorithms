@@ -13,4 +13,4 @@ By this way the index i dosent have to loop over the sorted element ( largest el
 
 The following image illustrates the same:
 
-![alt text](https://github.com/kshitijzutshi/Algorithms/blob/master/Unionfind.png)
+![alt text](https://github.com/kshitijzutshi/Algorithms/blob/master/DSA%20Deep%20Dive%20in%20Java/Sorting/BubbleSort.png)
