@@ -28,4 +28,4 @@ I found this [**link**](https://guides.github.com/features/mastering-markdown/) 
 
 # License
 
-You are free to use this in any way you want, in case you find this useful or working for you but you must keep the copyright notice and license. (Coursera)
+You are free to use this in any way you want, in case you find this useful or working for you but you must keep the copyright notice and license. (Coursera :registered:)
