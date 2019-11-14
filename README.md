@@ -16,6 +16,10 @@ The following image depicts a union find addressing dynamic connectivity: <br />
 ### Quick find
 The First implementation of an algorithm for solving the dynamic connectivity problem, called Quick-find. This is a so called eager algorithm, for solving connectivity problem.
 
+### Quick Union
+The second implementation of an algorithm for solving the dynamic connectivity problem, called Quick-union. This is a so called lazy algorithm, for solving connectivity problem.
+
+
 For reference I found the following two links particualrly helpful, as to WHY we need disjoint data structures:
 
 1. HackerEarth Blog Post [**Basics of Disjoint Data Structures**](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/tutorial/)
