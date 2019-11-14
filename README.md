@@ -19,6 +19,7 @@ The First implementation of an algorithm for solving the dynamic connectivity pr
 ### Quick Union
 The second implementation of an algorithm for solving the dynamic connectivity problem, called Quick-union. This is a so called lazy algorithm, for solving connectivity problem.
 
+### Reference resources
 
 For reference I found the following two links particualrly helpful, as to WHY we need disjoint data structures:
 
