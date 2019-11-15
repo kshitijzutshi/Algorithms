@@ -1,4 +1,6 @@
 # Algorithms :books:
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ac9748feda1e42b4a6a00ab0e688fa88)](https://www.codacy.com/manual/kshitijzutshi/Algorithms?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kshitijzutshi/Algorithms&amp;utm_campaign=Badge_Grade)
+
 This repository is dedicated to practice the topics taught in Algorithms Part I and Part II by Princeton University(Coursera)
 
 ## Union-Find
