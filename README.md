@@ -68,6 +68,25 @@ For reference I found the following two links particualrly helpful, as to WHY we
 1. HackerEarth Blog Post [**Basics of Disjoint Data Structures**](https://www.hackerearth.com/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/tutorial/)
 2. Question on Quora regarding application of Disjoint data structures Post [**What are the applications of disjoint set data structure?**](https://www.quora.com/What-are-the-applications-of-disjoint-set-data-structure)
 
+**List of algorithms to know, to solve most of the Dynamic programming problems:**
+
+1. [Insertion Sort](https://www.techiedelight.com/insertion-sort-iterative-recursive/), [Merge Sort](https://www.techiedelight.com/merge-sort/) , [Quicksort](https://www.techiedelight.com/quicksort/)
+2. [Binary Search](https://www.techiedelight.com/binary-search/)
+3. [Breadth First Search (BFS)](https://www.techiedelight.com/breadth-first-search/)
+4. [Depth First Search (DFS)](https://www.techiedelight.com/depth-first-search/)
+5. [Lee algorithm | Shortest path in a Maze](https://www.techiedelight.com/lee-algorithm-shortest-path-in-a-maze/)
+6. [Flood fill Algorithm](https://www.techiedelight.com/flood-fill-algorithm/)
+7. [Inorder](https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/), [Preorder](https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/), [Postorder](https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/) Tree Traversals
+8. [Floyd’s Cycle Detection Algorithm](https://www.techiedelight.com/detect-cycle-linked-list-floyds-cycle-detection-algorithm/)
+9. [Kadane’s algorithm](https://www.techiedelight.com/maximum-subarray-problem-kadanes-algorithm/)
+10. [Longest Increasing Subsequence](https://www.techiedelight.com/longest-increasing-subsequence/)
+11. [Heap Sort](https://www.techiedelight.com/heap-sort-place-place-implementation-c-c/)
+12. [Topological Sorting in a DAG](https://www.techiedelight.com/topological-sorting-dag/)
+13. [Disjoint-Set Data Structure (Union-Find Algorithm)](https://www.techiedelight.com/disjoint-set-data-structure-union-find-algorithm/)
+14. [Kruskal’s Algorithm for finding Minimum Spanning Tree](https://www.techiedelight.com/kruskals-algorithm-for-finding-minimum-spanning-tree/)
+15. [Single-Source Shortest Paths – Dijkstra’s Algorithm](https://www.techiedelight.com/single-source-shortest-paths-dijkstras-algorithm/)
+16. [All-Pairs Shortest Paths – Floyd Warshall Algorithm](https://www.techiedelight.com/pairs-shortest-paths-floyd-warshall-algorithm/)
+
 
 ### Quick Guide to master GitHub Markdown
 
