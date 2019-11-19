@@ -3,6 +3,8 @@
 
 This repository is dedicated to practice the topics taught in Algorithms Part I and Part II by Princeton University(Coursera)
 
+## Week #1
+
 ## Union-Find
 ‣ Dynamic connectivity <br />
 ‣ Quick find <br />
@@ -20,6 +22,44 @@ The First implementation of an algorithm for solving the dynamic connectivity pr
 
 ### Quick Union
 The second implementation of an algorithm for solving the dynamic connectivity problem, called Quick-union. This is a so called lazy algorithm, for solving connectivity problem.
+
+
+## Week #5
+
+**Understanding the difference between Binary search tree and balanced binary search tree.**
+
+1. Balanced Binary Search Tree representation
+
+           25             // Level 1
+        20    36          // Level 2
+      10 22  30 40        // Level 3
+  .. .. .. .. .. .. .. 
+.. .. .. .. .. .. .. ..   // Level n
+
+2. Binary Search Tree representation
+
+           10           // Level 1
+          9  11         // Level 2
+         7 . . 20       // Level 3
+        8 . . . 15 24   
+       6 . . . . . . .  // Level n
+Say we need to find the smallest item in the tree.
+
+This would be a search operation.
+
+1) The time complexity in here is O(log n), even in worst case scenario, because the tree is balanced. The minimum value is 10.
+
+2) The time complexity here in the worst case scenario is O(n). The minimum value is 6. You can picture from the representation that the root's left tree (branch) behaves like a linked list. This is because the tree is unbalanced. [1]
+
+Say, we want to create a list of all elements in the tree that are smaller than some value v.
+
+This would be an insertion operation.
+
+1) This would be O(log n), because as the tree is traversed it is balanced so you don't get 2)'s scenario.
+
+2) This would be O(n), because in the worst case scenario your insertion will resemble insertion of a linked list.
+
+**In conclusion: A Balanced Binary Search Tree guarantees O(log n) in all cases of search, insertion and deletion of nodes, where as a typical BST does not.**
 
 ### Reference resources
 
