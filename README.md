@@ -97,7 +97,7 @@ For reference I found the following two links particualrly helpful, as to WHY we
 
 ### Quick Guide to master GitHub Markdown
 
-I found this [**link**](https://guides.github.com/features/mastering-markdown/) particularly helpful. If you want to use Emojis in your markdown, check [**this**](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) out. :100:
+I found this [**mastering markdown repo**](https://guides.github.com/features/mastering-markdown/) particularly helpful. If you want to use Emojis in your markdown, [**check out this Emoji cheat sheet**](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :100:
 
 # License
 
