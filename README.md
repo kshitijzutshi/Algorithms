@@ -23,6 +23,12 @@ The First implementation of an algorithm for solving the dynamic connectivity pr
 ### Quick Union
 The second implementation of an algorithm for solving the dynamic connectivity problem, called Quick-union. This is a so called lazy algorithm, for solving connectivity problem.
 
+### Union-find Visualizer
+
+I found this link courtesy to USFCA, which helps in visualizing the find() and union() methods.
+
+
+
 
 ## Week #5
 
