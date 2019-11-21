@@ -25,7 +25,8 @@ The second implementation of an algorithm for solving the dynamic connectivity p
 
 ### Union-find Visualizer
 
-I found this link courtesy to USFCA, which helps in visualizing the find() and union() methods.
+I found this link courtesy to USFCA, which helps in visualizing the find() and union() methods - [Disjoint Sets Visualizer](https://www.cs.usfca.edu/~galles/JavascriptVisual/DisjointSets.html).
+
 
 
 
