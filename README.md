@@ -23,6 +23,9 @@ The First implementation of an algorithm for solving the dynamic connectivity pr
 ### Quick Union
 The second implementation of an algorithm for solving the dynamic connectivity problem, called Quick-union. This is a so called lazy algorithm, for solving connectivity problem.
 
+### Weighted Quick union 
+This algorithm solves the efficiency problem of the quick union algorithm. The source of the java code can be found [**HERE.**](https://algs4.cs.princeton.edu/15uf/WeightedQuickUnionUF.java)
+
 ### Union-find Visualizer
 
 I found this link courtesy to USFCA, which helps in visualizing the find() and union() methods - [Disjoint Sets Visualizer](https://www.cs.usfca.edu/~galles/JavascriptVisual/DisjointSets.html).
